@@ -1,4 +1,4 @@
-# Hobby Site: Merchandise Store 
+# Hobby Site: Merchandise Store (2024)
 Final Project for CSCI 40: Software Tools and Development Frameworks
 
 ## Clarifications 
